@@ -6,7 +6,7 @@
 1.测试环境为python3.7.6,自行安装python3  
 2.requirements.txt 是所需第三方模块，执行 `pip install -r requirements.txt` 安装模块  
 3.可在脚本内直接填写账号密码  
-4.Python 和需要模块都装好了直接在目录 cmd 运行所要运行的脚本。  
+4.Python 和需要模块都装好了直接在目录 cmd 运行所要运行的脚
 
 详细教程：[天翼云盘免费扩容教程：利用 GitHub Actions 自动签到 + 抽奖](https://laowangblog.com/cloud-189-add-storage.html)
 
